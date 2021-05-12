@@ -1,1 +1,2 @@
-console.log("hello world");
+require = require("esm")(module);
+module.exports = require("./app/main.js");
