@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A quick test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alex Foster",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
